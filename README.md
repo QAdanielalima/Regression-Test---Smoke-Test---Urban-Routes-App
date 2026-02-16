@@ -20,7 +20,7 @@ Main flows tested included:**
 - Travel time and cost calculation
 - General navigation and usability
 
-All tests followed previously designed **[test case](https://docs.google.com/spreadsheets/d/1zi541z3FCGLh491Zt3OTMLlJoa2S7_IwYySQ6Jqrrw8/edit?gid=1554413997#gid=1554413997)** used to guide execution and validation.
+All tests followed previously designed **[test case](https://docs.google.com/spreadsheets/d/1zi541z3FCGLh491Zt3OTMLlJoa2S7_IwYySQ6Jqrrw8/edit?gid=0#gid=0)** used to guide execution and validation.
 
 ## Test Environment
 ```
@@ -71,5 +71,4 @@ Early detection of defects helps:
 ## Conclusion
 
 Smoke and regression testing enabled clear identification of system weaknesses and ensured that core functionalities remained stable after updates.
-Structured testing, documentation, and defect reporting strengthened quality control and reinforced QA as a key factor in delivering a reliable and competitive product.# Regression-Test---Smoke-Test---Urban-Routes-App
-This project focused on executing manual test cases, smoke testing, and regression testing for the Urban Routes web application, with structured bug reporting compiled in checklists and reports.
+Structured testing, documentation, and defect reporting strengthened quality control and reinforced QA as a key factor in delivering a reliable and competitive product.
